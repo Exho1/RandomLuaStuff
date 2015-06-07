@@ -1,4 +1,4 @@
---[[if SERVER then
+if SERVER then
 	AddCSLuaFile()
 	
 	-- This entire thing is just the portion of my Door Locker code that allows for the door to be broken down.
@@ -88,4 +88,3 @@
 end
 
 
-]]

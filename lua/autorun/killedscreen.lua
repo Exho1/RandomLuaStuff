@@ -4,7 +4,7 @@
 
 -- TODO: Animations
 
---[[
+
 local KS_Config = {}
 KS_Config.Enabled = "1" -- Remove this, its silly
 
@@ -342,6 +342,6 @@ if CLIENT then
 		end)
 	end
 end
-]]
+
 
 

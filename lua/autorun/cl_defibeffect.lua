@@ -1,4 +1,4 @@
---[[
+
 if SERVER then
 	resource.AddFile( "materials/vgui/defib/medic.png" )
 	resource.AddFile( "materials/vgui/defib/heartbeat.png" )
@@ -106,4 +106,4 @@ if CLIENT then
 	hook.Add( "PostDrawOpaqueRenderables", "GoingToDie", ReviveCountdown )
 end
 
-]]
+

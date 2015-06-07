@@ -1,4 +1,4 @@
---[[
+
 AddCSLuaFile()
  
 ---- TTT Weapon Weight ----
@@ -87,5 +87,5 @@ end
 hook.Add( "TTTPlayerSpeed", "WeaponsHavePOWER", SpeedChanger )
 hook.Add( "PlayerSay", "PrintingTheirSpeed", SpeedChecker )
 
-]]
+
 
